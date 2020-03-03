@@ -1,0 +1,7 @@
+.container .row .col-4 img{
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    padding-top: 0px;
+
+}
